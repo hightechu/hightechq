@@ -1,5 +1,5 @@
 # HighTechQ
 
-Quantum Computing Curriculum for High School Students
+Quantum Computing Curriculum for Teens
 
 ### Coming Soon
